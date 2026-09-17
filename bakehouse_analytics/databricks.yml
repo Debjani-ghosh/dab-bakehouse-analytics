@@ -39,7 +39,7 @@ targets:
       root_path: /Workspace/Users/gdebjani19@gmail.com/.bundle/${bundle.name}/${bundle.target}
     variables:
       catalog: prod_bakehouse
-      schema: prod
+      schema: RND_Purpose
     permissions:
       - user_name: gdebjani19@gmail.com
         level: CAN_MANAGE
