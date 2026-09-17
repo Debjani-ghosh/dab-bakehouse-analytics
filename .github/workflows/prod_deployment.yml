@@ -11,6 +11,7 @@ concurrency:
 # Trigger this workflow whenever a pull request is pushed to the repo's
 # main branch.
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
